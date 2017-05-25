@@ -4,7 +4,7 @@ author: Zachary Wilson
 date: 2017-05-25
 ---
 
-# [%title]
+# README
 
 This is intended to be a generic template for a small business intranet web application.
 
